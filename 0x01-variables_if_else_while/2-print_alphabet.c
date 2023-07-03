@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 /**
-*main-Entry point
-*Description:program that prints a to z in lowercase
-*return: always (0)
-*/
+ * main - prints the alphabet in lowercase,
+ * followed by a new line
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char alphabet;
